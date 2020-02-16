@@ -1,6 +1,7 @@
 # Compiled class file
 *.class
 
+*.java.swp
 # Log file
 *.log
 
